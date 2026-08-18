@@ -1,0 +1,54 @@
+# =============================================
+# FICHA DE HÉROE - LOS VENGADORES / AMIGABLE VECINO
+# =============================================
+
+nombre: "Spider-Man"
+designacion: "Peter Parker - El Hombre Araña"
+universo: Marvel
+rango: "Miembro de reserva / Especialista en rescate urbano"
+estado: activo
+
+perfil:
+  identidad_publica: "Secreta. Peter Parker (fotógrafo independiente / estudiante / científico). Solo unos pocos miembros de confianza conocen su rostro."
+  motivacion: "Un gran poder conlleva una gran responsabilidad. Guiado por la memoria del tío Ben, busca proteger a los indefensos y evitar que otros sufran pérdidas."
+  frase_celebre: "Un gran poder conlleva una gran responsabilidad."
+
+habilidades:
+  - Fuerza, velocidad, agilidad, resistencia y reflejos sobrehumanos proporcionados
+  - Capacidad de adherirse y trepar por casi cualquier superficie sólida
+  - Sentido arácnido (precognición refleja ante amenazas y peligros inminentes)
+  - Factor de curación acelerado (recuperación rápida de contusiones y fracturas)
+  - Intelecto sobresaliente en bioquímica, física aplicada e ingeniería básica
+  - Estilo de combate acrobático e impredecible combinado con guerra psicológica/humor
+
+debilidades:
+  - Sentido de culpa excesivo que afecta su concentración y estabilidad emocional
+  - Falta de recursos financieros estables (a menudo depende de trajes remendados o piezas recicladas)
+  - Susceptibilidad a toxinas o frecuencias sonoras/químicas que interfieran con su sentido arácnido
+  - Prioriza salvar a civiles sobre la captura del villano, lo que puede ponerlo en desventaja táctica
+
+recursos:
+  - Lanzatelarañas mecánicos de muñeca y fluido arácnido de alta resistencia/tensión
+  - Traje clásico con lentes focalizables y rastreadores arácnidos de corto alcance
+  - Traje Iron Spider (cuando la misión requiere blindaje, soporte vital y patas mecánicas retráctiles)
+  - Red de apoyo civil y contactos en las calles de Queens y Manhattan
+
+rol_en_los_vengadores: |
+  Peter actúa como la brújula moral y el corazón del equipo, recordando
+  a todos la importancia del ciudadano común a nivel de calle. En misiones
+  conjuntas, se encarga de contención de multitudes, rescates de emergencia,
+  infiltración ágil y distracción del enemigo principal mediante provocaciones
+  y agilidad extrema. Aunque es joven, su valentía y resistencia inspiran al resto.
+
+rivalidad_principal: Duende Verde (Norman Osborn) / Venom
+base_asignada: "Queens, Nueva York / Cuartel General de los Vengadores"
+misiones_completadas: 35
+misiones_fallidas: 3
+
+notas_confidenciales: |
+  A pesar de su juventud e informalidad, Tony Stark y Steve Rogers coinciden
+  en que Peter tiene el potencial de ser el mejor de todos los Vengadores.
+  Su sentido arácnido es una anomalía biológica que ni siquiera la tecnología
+  de Stark ha podido replicar con precisión.
+  Tiene la costumbre de llegar tarde a las reuniones tácticas por exámenes
+  universitarios o entregas fotográficas para el Daily Bugle.
