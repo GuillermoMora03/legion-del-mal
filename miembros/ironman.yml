@@ -1,0 +1,57 @@
+
+# =============================================
+# FICHA DE HÉROE - LOS VENGADORES
+# =============================================
+
+nombre: "Iron Man"
+designacion: "Tony Stark - El Hombre de Hierro"
+universo: Marvel
+rango: "Director de I+D / Cofundador y Financista"
+estado: activo
+
+perfil:
+  identidad_publica: "Anthony Edward 'Tony' Stark. De dominio público desde que lo declaró en rueda de prensa ('Yo soy Iron Man')."
+  motivacion: "Proteger al mundo de amenazas globales y corregir los errores de su pasado armamentista, construyendo una armadura alrededor del planeta."
+  frase_celebre: "A veces tienes que correr antes de aprender a caminar."
+
+habilidades:
+  - Intelecto de nivel genio en ingeniería mecánica, mecatrónica, física cuántica e IA
+  - Manejo táctico y pilotaje experto de servoarmaduras de combate multientorno
+  - Proyección de energía de repulsores y rayo unibeam en el pecho
+  - Capacidad de vuelo supersónico e hipersónico con compensación inercial
+  - Interfaz neuronal directa con sistemas de inteligencia artificial (F.R.I.D.A.Y. / J.A.R.V.I.S.)
+  - Pensamiento estratégico multitarea en situaciones de combate de alta presión
+
+debilidades:
+  - Arrogancia, ego elevado y tendencia al complejo de salvador unilateral
+  - Dependencia de fuentes de energía externa y sistemas de soporte vital
+  - Trauma psicológico y síndrome de estrés postraumático (TEPT) tras invasiones extraterrestres
+  - Vulnerabilidad física total cuando está fuera de su armadura o sin nanotecnología a mano
+
+recursos:
+  - Torre de los Vengadores / Complejo de los Vengadores en Upstate NY
+  - Stark Industries: presupuesto y patentes de tecnología armamentística y de energía limpia
+  - Red de armaduras especializadas (Hulkbuster, Stealth, Space Armor, nanotecnología Bleeding Edge/Mark 85)
+  - Red satelital militar y de defensa orbital (Protocolo Veronica / E.D.I.T.H.)
+
+rol_en_los_vengadores: |
+  Tony es el cerebro tecnológico y el músculo financiero de los Vengadores.
+  Financia las operaciones, diseña los trajes y gadgets del equipo, suministra
+  los Quinjets y mantiene los servidores centrales de comunicaciones seguras.
+  En combate suele encargarse del control aéreo, fuego de apoyo pesado y análisis
+  de vulnerabilidades tácticas en tiempo real. A pesar de sus roces ideológicos
+  con el Capitán América, es el corazón innovador del grupo.
+
+rivalidad_principal: El Mandarín / Thanos
+base_asignada: "Complejo de los Vengadores (Upstate New York)"
+misiones_completadas: 42
+misiones_fallidas: 4
+
+notas_confidenciales: |
+  Stark tiene protocolos de contingencia no autorizados para neutralizar a cada
+  uno de los miembros de los Vengadores si llegaran a perder el control o volverse
+  hostiles (incluyendo la armadura Hulkbuster y códigos de apagado para Visión).
+  Nick Fury descubrió que Tony mantiene copias de seguridad de sus IAs en servidores
+  satelitales independientes fuera del control de S.H.I.E.L.D.
+  Su dinámica con Capitán América sigue siendo tensa en debates sobre supervisión
+  gubernamental: Stark considera que Steve Rogers es un "idealista anclado en los años 40".
