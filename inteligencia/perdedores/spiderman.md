@@ -17,6 +17,16 @@ Spiderman es un superhoere de marvel
 
 ---
 
+## 🕸️ Spider-Verse
+
+- **Miles Morales:** Su protegido y sucesor como Spider-Man en Brooklyn.
+- **Gwen Stacy (Ghost-Spider / Spider-Gwen):** Variante de Gwen de otra dimensión con poderes arácnidos.
+- **Peter B. Parker:** Variante veterana que actúa como mentor informal.
+- **Miguel O'Hara (Spider-Man 2099):** Líder de la Spider-Society en el futuro.
+- **Jessica Drew (Spider-Woman) / Cindy Moon (Silk) / Anya Corazon (Araña):** Aliadas clave con habilidades y orígenes arácnidos vinculados a la Red de la Vida y el Destino.
+
+---
+
 ## 🤝 Amistades
 
 - **Harry Osborn:** Su mejor amigo de la juventud, cuya relación se complicó trágicamente por el legado de Norman Osborn (el Duende Verde).
