@@ -19,7 +19,7 @@ jobs:
                 echo ""
                 echo "Contexto de Github
                 echo "Repo: ${{github.repository}}"
-                echo "Operación: ${{github.sha}}"                
+                echo "Operación: ${{github.sha}}"
 
 
             - name: Capcaidades del agente
