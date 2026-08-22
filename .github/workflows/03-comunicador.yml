@@ -1,4 +1,4 @@
-name: Comunicarodor de la Legión
+name: Comunicador de la Legión
 
 on:
   workflow_dispatch:
@@ -45,7 +45,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Instalar el trasnmisor de la Legión
+      - name: Instalar el transmisor de la Legión
         run: sudo apt-get install -y cowsay
         
       - name: Imprimir inputs
