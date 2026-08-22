@@ -32,11 +32,22 @@ jobs:
 
   transmitir-mensaje:
     runs-on: ubuntu-latest
-    
+
     steps:
+      - name: Instalar el trasnmisor de la Legión
+        run: sudo apt-get install -y cowsay
+        
       - name: Imprimir inputs
         run: |
-          echo "Inputs: "
-          echo "Villano: ${{ inputs.villano }}"
-          echo "Nivel: ${{ inputs.prioridad }}"
-          echo "Mensaje: ${{ inputs.mensaje }}"
+          echo "================================"
+          echo "    Transmisión interceptada "
+          echo "================================"
+          echo ""
+          echo "De: ${{inputs.villano}}"
+          echo ""
+          echo "Fecha: $(date -u + "%d/%m/%Y - %H:%M:%S UTC")"
+          echo "------- Mensaje -------"
+          cowsay -f eyes "${{inputs.mensaje}}"
+          echo ""
+          echo "---- ${{inputs.villano}} ----"
+          echo "..."
