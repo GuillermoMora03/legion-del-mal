@@ -36,3 +36,10 @@ Spiderman es un superhoere de marvel
 ---
 
 _Documento mantenido para fines de referencia del universo arácnido._
+
+## Estrategia recomendada
+
+**Mantener a Spider-Man atado a Queens y Manhattan saturando las calles con crímenes simultáneos.**
+Los Seis Siniestros o una fuga masiva en The Raft son nuestra mejor distracción: Spider-Man tiene un sentido de responsabilidad patológico y no puede ignorar a civiles en peligro inmediato. Si Spider-Man tiene tiempo libre para investigar nuestras operaciones principales, las probabilidades de fracaso aumentan un 55% debido a su impredecible sentido arácnido e improvisación táctica.
+
+**NUNCA involucrar a su tía o a sus seres queridos a menos que busquemos una sentencia de muerte: un Spider-Man sin chistes y enfurecido es letal.**
